@@ -5,7 +5,7 @@ Setup
 To manually set up the template, first download it with Git:
 
 ```bash
-git clone https://github.com/zurb/foundation-zurb-template projectname
+git clone https://github.com/after9/gulp-bootstrap-5 projectname
 ```
 
 Then open the folder in your command line, and install the needed dependencies:
